@@ -1,0 +1,12 @@
+{
+  "name": "Open Building",
+  "short_name": "OB",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "./VOCA-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
